@@ -1,4 +1,5 @@
 import React from 'react';
+import productsData from '../productsData';
 
 const ProductItem = ({ product, addToCart }) => {
     const { id, name, price, image } = product;

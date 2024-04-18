@@ -20,8 +20,8 @@ function App() {
     };
 
     return (
-        <div className="container mx-auto px-4">
-            <h1 className="text-3xl font-semibold mb-4">E-Commerce App</h1>
+        <div className="container mx-auto px-4 ">
+            <h1 className="text-3xl font-semibold mb-4 py-20">E-Commerce App</h1>
             
             <div className="grid grid-cols-2 gap-8">
                 {/* Product Catalog */}
